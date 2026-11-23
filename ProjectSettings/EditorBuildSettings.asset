@@ -18,5 +18,8 @@ EditorBuildSettings:
     path: Assets/Scenes/MiniGame3AR.unity
     guid: 9e1190314130cb541af4fd8eb8d84d77
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a20b94dec86079944bf904eb7dd88dca, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c8b4764d3d0384d47917075924ddd0a4, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a22a762e2cd65bb4e9156c1faa4aa647, type: 2}
   m_UseUCBPForAssetBundles: 0
